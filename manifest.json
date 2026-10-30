@@ -4201,7 +4201,7 @@
       "height": 800,
       "bytes": 112192,
       "manual": true,
-      "caption": "Barnburners & Noblemen logo, gold lettering on red with flame and sword, on white; wide"
+      "caption": "Barnburners & Noblemen logo glowing over charred wood and embers; wide"
     },
     {
       "id": "key-art-image-1793337342961",
@@ -4607,6 +4607,20 @@
       "height": 246,
       "bytes": 870743,
       "caption": "Animated montage of the game components: box, map, cards, coins and dice; wide",
+      "manual": true
+    },
+    {
+      "id": "header-logo-embers",
+      "file": "header-logo-embers.jpg",
+      "kind": "header",
+      "character": null,
+      "faction": null,
+      "component": null,
+      "source": "cropped from brand/assets/inbox/BarnburnersandnoblemenLOGO.png",
+      "width": 1280,
+      "height": 478,
+      "bytes": 105159,
+      "caption": "Email header: logo over glowing embers; wide banner",
       "manual": true
     }
   ]
