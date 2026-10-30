@@ -4191,7 +4191,7 @@
     },
     {
       "id": "key-art-barnburnersandnoblemenlogo",
-      "file": "key-art-barnburnersandnoblemenlogo.jpg",
+      "file": "key-art-barnburnersandnoblemenlogo.png",
       "kind": "key-art",
       "character": null,
       "faction": null,
@@ -4199,9 +4199,9 @@
       "source": "brand/assets/inbox/BarnburnersandnoblemenLOGO.png",
       "width": 1200,
       "height": 800,
-      "bytes": 112192,
+      "bytes": 1777883,
       "manual": true,
-      "caption": "Gold-and-red \"Barnburners & Noblemen\" logo with a sword and flame motif, glowing embers over charred wood; wide landscape"
+      "caption": "Transparent Barnburners & Noblemen logo, gold lettering on red with flame and sword; wide"
     },
     {
       "id": "key-art-image-1793337342961",
