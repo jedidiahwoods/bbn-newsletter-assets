@@ -4552,6 +4552,62 @@
       "bytes": 38675,
       "manual": true,
       "caption": "Transparent Barnburners & Noblemen logo for headers; wide"
+    },
+    {
+      "id": "gif-box-art-animated",
+      "file": "gif-box-art-animated.gif",
+      "kind": "gif",
+      "character": null,
+      "faction": null,
+      "component": null,
+      "source": "data\\assets-src\\video\\box-art-animated.mp4",
+      "width": 440,
+      "height": 440,
+      "bytes": 1108641,
+      "caption": "Animated box art: the Barnburners & Noblemen box cover with moving flames; wide",
+      "manual": true
+    },
+    {
+      "id": "gif-dice-roll",
+      "file": "gif-dice-roll.gif",
+      "kind": "gif",
+      "character": null,
+      "faction": null,
+      "component": null,
+      "source": "data\\assets-src\\video\\dice-roll.mp4",
+      "width": 560,
+      "height": 316,
+      "bytes": 635844,
+      "caption": "Animated clip of the custom attack/defence dice being rolled; wide",
+      "manual": true
+    },
+    {
+      "id": "gif-table-spread",
+      "file": "gif-table-spread.gif",
+      "kind": "gif",
+      "character": null,
+      "faction": null,
+      "component": null,
+      "source": "data\\assets-src\\video\\table-spread.full.gif",
+      "width": 440,
+      "height": 248,
+      "bytes": 828518,
+      "caption": "Animated sweep over the full game laid out on a wooden table: hex map, cards, standees, dice; wide",
+      "manual": true
+    },
+    {
+      "id": "gif-components",
+      "file": "gif-components.gif",
+      "kind": "gif",
+      "character": null,
+      "faction": null,
+      "component": null,
+      "source": "data\\assets-src\\shopify\\Thumbnail_Premium_Components_5.gif",
+      "width": 440,
+      "height": 246,
+      "bytes": 870743,
+      "caption": "Animated montage of the game components: box, map, cards, coins and dice; wide",
+      "manual": true
     }
   ]
 }
