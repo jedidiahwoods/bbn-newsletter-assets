@@ -4191,7 +4191,7 @@
     },
     {
       "id": "key-art-barnburnersandnoblemenlogo",
-      "file": "key-art-barnburnersandnoblemenlogo.png",
+      "file": "key-art-barnburnersandnoblemenlogo.jpg",
       "kind": "key-art",
       "character": null,
       "faction": null,
@@ -4199,9 +4199,9 @@
       "source": "brand/assets/inbox/BarnburnersandnoblemenLOGO.png",
       "width": 1200,
       "height": 800,
-      "bytes": 1777883,
+      "bytes": 112192,
       "manual": true,
-      "caption": "Transparent Barnburners & Noblemen logo, gold lettering on red with flame and sword; wide"
+      "caption": "Barnburners & Noblemen logo, gold lettering on red with flame and sword, on white; wide"
     },
     {
       "id": "key-art-image-1793337342961",
@@ -4538,6 +4538,20 @@
       "bytes": 138704,
       "manual": true,
       "caption": "Wide banner key art for the Barnburners & Noblemen board game, showing its box, hex map board, figures, cards, coins, and dice"
+    },
+    {
+      "id": "key-art-logo-header",
+      "file": "key-art-logo-header.png",
+      "kind": "key-art",
+      "character": null,
+      "faction": null,
+      "component": null,
+      "source": "brand/assets/inbox/logo-header.png",
+      "width": 520,
+      "height": 202,
+      "bytes": 38675,
+      "manual": true,
+      "caption": "Transparent Barnburners & Noblemen logo for headers; wide"
     }
   ]
 }
