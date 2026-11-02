@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:21:33.752Z",
+  "updatedAt": "2026-11-02T20:20:03.562Z",
   "images": [
     {
       "id": "character-art-dem-melash-okjw",
@@ -4622,6 +4622,19 @@
       "bytes": 105159,
       "caption": "Email header: logo over glowing embers; wide banner",
       "manual": true
+    },
+    {
+      "id": "card-merchant-diplomacy-cards-photo",
+      "file": "card-merchant-diplomacy-cards-photo.jpg",
+      "kind": "card",
+      "character": null,
+      "faction": "Merchants",
+      "component": "Diplomacy cards",
+      "source": "uploaded 2026-11-02 / merchant-diplomacy-cards.webp",
+      "width": 900,
+      "height": 734,
+      "bytes": 150466,
+      "caption": "Photo of three Merchant Diplomacy cards fanned out: two Deep Pockets and Merchant's Fortune, gold-coin artwork, rules text visible"
     }
   ]
 }
