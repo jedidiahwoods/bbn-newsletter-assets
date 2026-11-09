@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:22:37.689Z",
+  "updatedAt": "2026-11-09T18:19:53.673Z",
   "images": [
     {
       "id": "character-art-dem-melash-okjw",
@@ -4845,6 +4845,20 @@
       "bytes": 219544,
       "manual": true,
       "caption": "Twelve dark stone-textured ability cards from Barnburners & Noblemen in a 3-by-4 grid; the image is wide"
+    },
+    {
+      "id": "reply-photo-202611091819-1",
+      "file": "reply-photo-202611091819-1.png",
+      "kind": "reply-photo",
+      "character": null,
+      "faction": null,
+      "component": null,
+      "source": "email reply attachment: IMG_test.webp",
+      "width": 1200,
+      "height": 979,
+      "bytes": 2592193,
+      "caption": "Photo attached by the studio to an edit reply on Mon Nov 09 2026 for test (\"use this photo for the lore section\"); file IMG_test.webp",
+      "manual": true
     }
   ]
 }
